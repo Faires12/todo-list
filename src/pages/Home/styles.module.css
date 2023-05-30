@@ -1,0 +1,27 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 0;
+}
+
+.subDiv{
+    width: 70%;
+}
+
+.image{
+    width: 100%;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.text{
+    color: #FFFFFF;
+    font-size: 72px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}

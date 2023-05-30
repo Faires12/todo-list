@@ -1,0 +1,43 @@
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.infoBox{
+    color: #D9D9D9;
+    font-weight: 700;
+    font-size: 14px;
+    background: #333333;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    border-radius: 20px;
+    padding: 3px 11px;
+}
+
+.tasksCraeted{
+    display: flex;
+    align-items: center;
+}
+
+.tasksCreatedText{
+    color: #4EA8DE;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.tasksConcluded{
+    display: flex;
+    align-items: center;
+}
+
+.tasksConcludedText{
+    color: #8284FA;
+    font-size: 14px;
+    font-weight: 700;
+}
+

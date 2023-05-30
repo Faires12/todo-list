@@ -1,0 +1,18 @@
+.main{
+    background-color: #262626;
+    border: 1px solid #0D0D0D;
+    border-radius: 8px;
+    color: #F2F2F2;
+    transition: 0.2s;
+    padding: 18px;
+    outline: none;
+    flex-grow: 1;
+}
+
+.main:hover{
+    filter: brightness(1.2);
+}
+
+.main:focus{
+    filter: brightness(1.2);
+}

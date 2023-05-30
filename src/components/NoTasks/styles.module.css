@@ -1,0 +1,21 @@
+.main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.textBold{
+    color: #808080;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 2px;
+}
+
+.text{
+    color: #808080;
+    font-size: 16px;
+    margin-top: 2px;
+}

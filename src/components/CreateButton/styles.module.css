@@ -1,0 +1,15 @@
+.main{
+    border: none;
+    outline: none;
+    color: #F2F2F2;
+    background-color: #1E6F9F;
+    padding: 18px 22px;
+    border-radius: 8px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.main:hover{
+    filter: brightness(1.2);
+}
